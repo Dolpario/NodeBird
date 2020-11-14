@@ -125,7 +125,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_4__);
 
 
-var _jsxFileName = "C:\\React\\react-nodebird\\front\\pages\\_app.js";
+var _jsxFileName = "C:\\React\\nodebird\\front\\pages\\_app.js";
 
 
 
